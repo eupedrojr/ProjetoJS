@@ -1,0 +1,17 @@
+{
+  "name": "projeto-js",
+  "version": "1.0.0",
+  "description": "primeiro projeto js",
+  "main": "main.js",
+  "scripts": {
+    "test": "node ./src/main.js"
+  },
+  "keywords": [
+    "jsprojeto"
+  ],
+  "author": "Pedro jr",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
